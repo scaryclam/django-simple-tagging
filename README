@@ -1,0 +1,7 @@
+Django simple_tagging is a simple tagging app.
+
+Install the app in settings.py and then use the TagMixin on any models you
+wish to have tagging available on.
+
+This will expose add_tag, get_tags and some search helpers.
+
